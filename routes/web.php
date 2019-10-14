@@ -12,5 +12,24 @@
 */
 
 Route::get('/', function () {
+    return view('home');
+})->name("home");
+
+
+Route::get('/petition', function () {
+    return view('petition');
+})->name("petition");
+
+
+Route::get('/regie', function () {
+    return view('regie');
+})->name("regie");
+
+
+Route::get('/refuse', function () {
+    return view('refuse');
+})->name("refuse");
+
+Route::get('/welcome', function () {
     return view('welcome');
 });
