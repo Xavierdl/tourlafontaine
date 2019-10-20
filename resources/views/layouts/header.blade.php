@@ -14,7 +14,7 @@
 						</ul> --}}
 					</div>
 					<div class="uk-navbar-center nav-overlay">
-						<a class="uk-navbar-item uk-logo" href="#" title="Logo">LA TOUR LAFONTAINE</a>
+						<a class="uk-navbar-item uk-logo" href={{route("home")}} title="Logo">LA TOUR LAFONTAINE</a>
 					</div>
 					<div class="uk-navbar-right nav-overlay">
 						<a class="uk-navbar-toggle uk-visible@m" data-uk-search-icon data-uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>

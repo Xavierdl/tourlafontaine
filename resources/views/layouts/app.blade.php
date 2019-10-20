@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>News Blog - UIkit 3 KickOff</title>
+		<title>TourLafontaine</title>
 		<link rel="icon" href="img/favicon.ico">
 		<!-- CSS FILES -->
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.2.0/css/uikit.min.css">

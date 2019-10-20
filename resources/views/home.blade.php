@@ -17,6 +17,8 @@
 							<p>Ce site n'appartient pas à la compagnie propriétaire de l'immeuble mais aux locataires</p>
 							<p>Vous pouvez y suivre les actualitées des démarches contre CLV</p>
 							<a href="{{route("petition")}}" class="uk-button uk-button-default uk-margin-top">Voir la pétition</a>
+							<br>
+							<a href="{{route("regie")}}" class="uk-button uk-button-default uk-margin-top">Voir le recours régie du logement</a>
 						</div>
 					</div>
 					
